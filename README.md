@@ -15,7 +15,7 @@ Meu primeiro projeto desenvolvido para WEB.
 </p>
 
 <p align="center">
-  <img alt="projeto Linktree" src="Projeto/github/preview.png" width="100%">
+  <img alt="projeto Linktree" src=".github/preview.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
